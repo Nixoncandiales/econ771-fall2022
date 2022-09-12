@@ -8,6 +8,7 @@ header-includes:
   - \usepackage{amsmath}
   - \usepackage{mathtools}
 output:
+  pdf: default
 #  html_document: default
   xaringan::moon_reader:
     css: [default, metropolis, metropolis-fonts, custom.css] 
