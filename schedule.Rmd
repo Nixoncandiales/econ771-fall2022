@@ -16,25 +16,44 @@ advdate <- function(adv) {
 }
 ```
 
-Below is a preliminary course outline for this semester. For a more complete reading list each day as well as more detail on course policies, please see the full syllabus [here](syllabus/syllabus-771.pdf).
+Below is a preliminary course outline for this semester. For a more complete reading list each day as well as more detail on course policies, please see the full syllabus [here](syllabus/syllabus-771.pdf). I'll post links to paper presentations as they are available.
 
 
 ## [Module 0: Kicking things off!](modules/module0.html)
 
-  - `r advdate(1)`: Introduction to the economics of healthcare and causal inference. Slides [part 1](slides/01-intro-health.html) and [part 2](slides/01-intro-causal-inference.html)
+  - `r advdate(1)`: Introduction to the economics of healthcare and causal inference. 
+      - [Intro to healthcare slides](slides/01-intro-health.html)
+      - [Intro to causal inference slides](slides/01-intro-causal-inference.html)
 
 ## [Module 1: Hospitals](modules/module1.html)
 
-  - `r advdate(2)`: Background and institutional details
+  - `r advdate(2)`: Background and institutional details. 
+      - [Background slides](slides/01-1.html)
+      - [Chang and Jacobson (2010), What do nonprofit hospitals maximize?](slides/student/katie-20220829.pdf), presented by Katie      
+      - [Bayindir (2012), Hospital ownership and treatment choices](slides/student/pablo-20220829.pdf), presented by Pablo
   - `r advdate(3)`: Hospitals and financial incentives, part I
+      - [Dafny (2005), How do hospitals respond to price changes?](slides/student/wonjun-20220831.pdf), presented by Wonjun
+      - [Eliason et al. (2018), Strategic patient discharge: The case of long-term care hospitals](slides/student/kayan-20220831.pdf), presented by Ka Yan
+      - [Gupta (2021), Impacts of performance pay for hospitals: The readmissions reduction program](slides/student/rachel-20220831.pdf), presented by Rachel
   - `r advdate(4)`: Labor Day, no class
   - `r advdate(5)`: Hospitals and financial incentives, part II
+      - [Batty and Ippolito (2017), Financial incentives, hospital care, and health outcomes: Evidence from fair pricing laws](slides/student/jingquan-20220907.pptx), presented by Jingquan
+      - [Lee (2020), How do hospitals respond to managed care? Evidence from at-risk newborns](slides/student/amy-20220907.pdf), presented by Amy
   - `r advdate(6)` - `r advdate(8)`: Empirical application with DD
+      - [Basics of Panel Data and Fixed Effects](slides/02-1.html)
+      - [Difference-in-Differences the "Old" Way](slides/02-2.html)
+      - [Difference-in-Differences the "New" Way(s)](slides/02-3.html)
+      - [Discussion of Assignment](slides/02-4.html)
 
 ## [Module 2: Physicians](modules/module2.html)
 
   - `r advdate(9)`: Background and institutional details
+      - [Finkelstein, Gentzkow and Williams (2016), Sources of Geographic Variation in Health Care: Evidence from Patient Migration](slides/student/pablo-20220921.pdf), presented by Pablo
+      - [Molitor (2018), The Evolution of Physician Practice Styles: Evidence from Cariologist Migration](slides/student/rachel-20220921.pdf), presented by Rachel
   - `r advdate(10)`: Physician agency, financial incentives, and referrals
+      - [Clemens and Gottlieb (2014), Do physicians' financial incentives affect medical treatment and patient health](slides/student/wonjun-20220926.pdf), presented by Wonjun
+      - [Zeltzer (2020), Gender homophily in referral networks: Consequences for the Medicare physician earning gap](slides/student/pablo-20220926.pdf), presented by Pablo
+      - [Chernew et al (2021), Physician agency, consumerism, and the consumption of lower-limb MRI scans](slides/student/martha-20220926.pdf), presented by Martha
   - `r advdate(11)`: Physician learning
   - `r advdate(12)` - `r advdate(13)`: Empirical application with IV
   - `r advdate(14)`: Fall break
